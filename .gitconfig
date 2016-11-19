@@ -1,0 +1,13 @@
+[user]
+    name = Hal Lin
+    email = hl261@duke.edu
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
